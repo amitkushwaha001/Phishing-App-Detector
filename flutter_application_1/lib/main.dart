@@ -77,9 +77,10 @@ class SecurityResult {
 }
 
 class ApiService {
-  // --- API KEYS ---
-  static const String vtApiKey = 'b7c20280876a144a8482c4a91b3da5ce1899b14ff055a3ec715836f79f25095c';
-  static const String googleApiKey = 'AIzaSyCmNRZTzD5nHzk48q8il6ut9x9sGVppOIQ';
+  static const String vtApiKey =
+      String.fromEnvironment('VT_API_KEY', defaultValue: '');
+  static const String googleApiKey =
+      String.fromEnvironment('GOOGLE_API_KEY', defaultValue: '');
 
   // --- 1. SCAN URL (VirusTotal) ---
   static Future<Map<String, dynamic>> scanVirusTotalUrl(String url) async {
