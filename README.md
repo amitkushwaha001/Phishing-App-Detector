@@ -543,7 +543,6 @@ flutter build macos --release
 - Auto-prepends `https://` if missing
 - Footer credits
   ## 📸 Screenshots
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/69913def-5f49-4e2b-b2ff-ed389a65ef27" width="300"/>
 </p>
@@ -561,10 +560,8 @@ flutter build macos --release
   - Threat Level (Low / High / Critical)
 - **Share Screenshot** button — captures the result card and shares as a PNG image
 ## 📸 Screenshots
-
 <p align="center">
-  <img src="![Screenshot_20260323_204144](https://github.com/user-attachments/assets/08a9d4c7-1942-4bcd-9395-ef83dd353a5e)"
- width="300"/>
+  <img src="https://github.com/user-attachments/assets/08a9d4c7-1942-4bcd-9395-ef83dd353a5e" width="300"/>
 </p>
 
 ---
