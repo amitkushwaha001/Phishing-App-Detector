@@ -545,8 +545,7 @@ flutter build macos --release
   ## 📸 Screenshots
 
 <p align="center">
-  <img src="![Screenshot_20260323_204112](https://github.com/user-attachments/assets/69913def-5f49-4e2b-b2ff-ed389a65ef27)
-" width="300"/>
+  <img src="https://github.com/user-attachments/assets/69913def-5f49-4e2b-b2ff-ed389a65ef27" width="300"/>
 </p>
 
 ### Screen 2: Result Screen (Analysis Report)
