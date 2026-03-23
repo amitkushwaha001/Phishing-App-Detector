@@ -39,7 +39,7 @@ Powered by VirusTotal & Google Safe Browsing APIs to keep users safe online.
 
 ## 📱 Project Description
 
-**Phishing-App-Detector** (internally named *Phishing Guard* / *Cyber Raksha App*) is a cross-platform mobile and desktop application that helps users verify whether a website URL is safe or a phishing/malicious link — before they click on it.
+**Phishing-App-Detector** (internally named **Phishing Guard** / **Cyber Raksha App**) is a cross-platform mobile and desktop application that helps users verify whether a website URL is safe or a phishing/malicious link — before they click on it.
 
 In an era where phishing attacks are the #1 entry point for cybercrime, this app provides a fast, intelligent, dual-engine security check using two of the most trusted threat intelligence platforms in the world:
 
@@ -425,7 +425,7 @@ flutter devices
 flutter run -d <device-id>
 
 # Run on the first available device
-flutter run
+flutter run --dart-define=VT_API_KEY=your_key --dart-define=GOOGLE_API_KEY=your_key
 ```
 
 > **Tip:** Enable USB Debugging on your Android device under Developer Options.
@@ -622,6 +622,20 @@ Contributions are welcome! Here's how to get started:
 ## 📄 License
 
 This project is open source. Please check the repository for license details.
+
+---
+---
+
+## 👤 Connect with Me
+
+<div align="center">
+
+**Amit Kushwaha**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-kumar-kushwaha-a97892322)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amitkushwaha001)
+
+</div>
 
 ---
 
