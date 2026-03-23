@@ -542,8 +542,12 @@ flutter build macos --release
 - "SCAN FOR PHISHING" button that navigates to the Result Screen
 - Auto-prepends `https://` if missing
 - Footer credits
-  ![Screenshot_20260323_204112](https://github.com/user-attachments/assets/b819c1c3-514c-4bb1-bf5f-b6f401037e49)
+  ## 📸 Screenshots
 
+<p align="center">
+  <img src="![Screenshot_20260323_204112](https://github.com/user-attachments/assets/69913def-5f49-4e2b-b2ff-ed389a65ef27)
+" width="300"/>
+</p>
 
 ### Screen 2: Result Screen (Analysis Report)
 
@@ -557,7 +561,12 @@ flutter build macos --release
   - Protocol (HTTP or HTTPS)
   - Threat Level (Low / High / Critical)
 - **Share Screenshot** button — captures the result card and shares as a PNG image
-![Screenshot_20260323_204144](https://github.com/user-attachments/assets/cb25242f-b9ee-4fa8-8697-2780bb6fa7df)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="![Screenshot_20260323_204144](https://github.com/user-attachments/assets/08a9d4c7-1942-4bcd-9395-ef83dd353a5e)"
+ width="300"/>
+</p>
 
 ---
 
