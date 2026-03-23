@@ -398,8 +398,10 @@ Open `lib/main.dart` and locate the `ApiService` class. Replace the placeholder 
 
 ```dart
 class ApiService {
-  static const String vtApiKey = 'YOUR_VIRUSTOTAL_API_KEY_HERE';
-  static const String googleApiKey = 'YOUR_GOOGLE_SAFE_BROWSING_API_KEY_HERE';
+  static const String vtApiKey =
+      String.fromEnvironment('VT_API_KEY', defaultValue: '');
+  static const String googleApiKey =
+      String.fromEnvironment('GOOGLE_API_KEY', defaultValue: '');
 ```
 
 See the [API Keys Configuration](#-api-keys-configuration) section below for how to obtain these keys.
